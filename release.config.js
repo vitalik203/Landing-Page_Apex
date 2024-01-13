@@ -1,5 +1,5 @@
 module.exports = {
-    branches: ['master'],
+    branches: ['develop'],
     repositoryUrl: 'https://github.com/vitalik203/Landing-Page_Apex.git',
     plugins: [
       '@semantic-release/commit-analyzer',
